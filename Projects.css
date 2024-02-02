@@ -188,7 +188,7 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 70px auto 0;
 }
 
@@ -204,12 +204,6 @@
   left: -39%;
   height: 178%;
   top: -39%;
-}
-
-@media (max-width: 1399px) {
-  .u-section-3 .u-text-1 {
-    font-size: 1.875rem;
-  }
 }
 
 @media (max-width: 991px) {
@@ -248,8 +242,8 @@
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 .u-section-4 .u-image-1 {
@@ -271,7 +265,7 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 0;
 }
 
@@ -313,12 +307,6 @@
 
 .u-section-4 .u-container-layout-5 {
   padding: 20px;
-}
-
-@media (max-width: 1399px) {
-  .u-section-4 .u-text-1 {
-    font-size: 1.875rem;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -418,10 +406,6 @@
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
     min-height: 1000px;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    margin-bottom: 0;
   }
 
   .u-section-4 .u-image-1 {
@@ -907,7 +891,7 @@
 }
 
 .u-section-7 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 28px 0 0;
 }
 
@@ -924,7 +908,7 @@
 }
 
 .u-section-7 .u-text-3 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 30px 4px 0 0;
 }
 
@@ -950,14 +934,6 @@
   .u-section-7 .u-layout-wrap-1 {
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-7 .u-text-1 {
-    font-size: 1.875rem;
-  }
-
-  .u-section-7 .u-text-3 {
-    font-size: 1.875rem;
   }
 }
 
@@ -1356,6 +1332,11 @@
     margin-left: initial;
   }
 
+  .u-section-9 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
+
   .u-section-9 .u-text-1 {
     width: 340px;
     margin-bottom: 60px;
@@ -1700,7 +1681,7 @@
 }
 
 .u-section-13 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 34px 0 0;
 }
 
@@ -2398,7 +2379,7 @@
 }
 
 .u-section-19 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 0;
 }
 
@@ -2506,7 +2487,7 @@
 }
 
 .u-section-20 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 0 auto;
 }
 
@@ -3258,7 +3239,7 @@
 }
 
 .u-section-26 .u-text-1 {
-  font-size: 1rem;
+  font-size: 1.875rem;
   margin: 0;
 }
 
