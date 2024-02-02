@@ -17,12 +17,12 @@
 
 .u-section-1 .u-text-1 {
   text-transform: none;
-  font-size: 2.25rem;
+  font-size: 1rem;
   margin: 55px 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin: 28px 0 0;
 }
 
@@ -40,27 +40,58 @@
 }
 
 .u-section-1 .u-input-1 {
-  font-size: 1.125rem;
+  font-size: 1rem;
   text-transform: none;
 }
 
 .u-section-1 .u-input-2 {
-  font-size: 1.125rem;
+  font-size: 1rem;
   text-transform: none;
 }
 
 .u-section-1 .u-input-3 {
-  font-size: 1.125rem;
+  font-size: 1rem;
   text-transform: none;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 1.125rem;
+  font-size: 1rem;
   padding: 20px 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-input-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-input-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-input-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.125rem;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -74,11 +105,6 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 368px;
-  }
-
-  .u-section-1 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 

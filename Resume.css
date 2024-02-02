@@ -1,15 +1,28 @@
- .u-section-1 {
-  background-image: url("images/Mingshi_Chi_Resume3-page-001.jpg");
-  background-position: 50% 50%;
-}
-
 .u-section-1 .u-sheet-1 {
   min-height: 1624px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1318px;
+  height: 1621px;
+  margin: 0 auto 3px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-image-1 {
+    width: 1140px;
+    height: 1402px;
+  }
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1830px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 1156px;
   }
 }
 
@@ -17,16 +30,31 @@
   .u-section-1 .u-sheet-1 {
     min-height: 1644px;
   }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 885px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1492px;
   }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 664px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1323px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 418px;
   }
 }
