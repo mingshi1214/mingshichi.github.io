@@ -1536,6 +1536,11 @@
     margin-left: initial;
   }
 
+  .u-section-11 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
+
   .u-section-11 .u-text-1 {
     width: 340px;
     margin-bottom: 8px;
@@ -2699,7 +2704,7 @@
   text-transform: uppercase;
   font-size: 1rem;
   letter-spacing: 1px;
-  margin: 20px auto 0 126px;
+  margin: 20px auto 0 153px;
   padding: 0;
 }
 
@@ -2720,6 +2725,7 @@
 
   .u-section-22 .u-btn-1 {
     font-size: 0.875rem;
+    margin-left: 126px;
   }
 }
 
@@ -2748,10 +2754,6 @@
 @media (max-width: 991px) {
   .u-section-22 .u-layout-cell-1 {
     min-height: 100px;
-  }
-
-  .u-section-22 .u-btn-1 {
-    margin-left: 0;
   }
 
   .u-section-22 .u-image-1 {
